@@ -2,7 +2,7 @@
 
 This project uses different implementations of MapSet (HashMap and Binary Search Tree Map) to determine the frequencies of all the words in a given text document---in a dataset of 2008 Reddit comments.
 
-The result is a textual presentation of the word frequency analysis in Reddit comments over a period of 8 years, along with analysis of the efficiency of two different data structures.
+The result is a textual presentation of the word frequency analysis of the Reddit comments, along with analysis of the efficiency of two different data structures.
 
 ## Description
 
